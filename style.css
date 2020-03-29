@@ -1,0 +1,28 @@
+.timer-box-wrap {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.timer-box-wrap .timer-box {
+    margin-top: 200px;
+}
+
+.timer-box p {
+    margin: 0;
+    font-size: 30px;
+}
+
+.buttons button {
+    margin: 0 auto;
+}
+
+.buttons #start_btn {
+    display: block;
+}
+
+.buttons #stop_btn {
+    display: none;
+}
+
+
